@@ -1,0 +1,27 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+
+*~
+*#
+*.#*
+*.DS_Store
+*.swp
+
+# Generated files and folders
+grpc/
+bin/
+build/
+
+# Code editor settings
+.vscode
+   
+# artifact
+.artifact/cache
+.artifact/data
+
+trossen
+module.tar.gz
+*.AppImage
