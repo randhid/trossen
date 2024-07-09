@@ -9,6 +9,7 @@
 *.#*
 *.DS_Store
 *.swp
+.vscode
 
 # Generated files and folders
 grpc/

@@ -17,7 +17,7 @@ namespace trossen{
 
 
 bool TrossenArm::is_moving() {
-    return false
+    return false;
 }
 
 sdk::AttributeMap TrossenArm::do_command(const AttributeMap& command) {
